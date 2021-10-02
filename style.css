@@ -1183,8 +1183,8 @@ body {
       display: inline-block;
     }
     .img-fluid-main {
-      height: 500px;
-      width: 520px;
+      height: 350px;
+      width: 460px;
     }
     /* journal */
     #journal .journal-block .journal-info {
@@ -1324,6 +1324,10 @@ body {
     #portfolio .portfolio-list .nav li {
       float: none;
       margin: 20px;
+    }
+    .img-fluid-main {
+      height: 200px;
+      width: 200px;
     }
     /* journal */
     #journal .journal-block .journal-info {
