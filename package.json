@@ -1,0 +1,19 @@
+{
+  "name": "my-portfolio-rg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenMG00/my-portfolio-rg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenMG00/my-portfolio-rg/issues"
+  },
+  "homepage": "https://github.com/RenMG00/my-portfolio-rg#readme"
+}
