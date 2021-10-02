@@ -426,13 +426,13 @@ body {
   # Hero
   --------------------------------------------------------------*/
   #hero {
-    background: url("../img/home-bg.jpg") repeat scroll center center/cover;
-    height: 20vh;
+    background: url("./assets/img/colorful.jpg") repeat scroll center center/cover;
+    height: 50vh;
     width: 100%;
   }
   
   #hero .hero-content {
-    height: 100vh;
+    height: 50vh;
     text-align: left;
     width: 100%;
     display: flex;
@@ -539,7 +539,8 @@ body {
   
   #about .div-img-bg {
     padding-bottom: 30px;
-    border: 20px solid #283642;
+    padding-left: 10px;
+    border: 8px solid #080808;
   }
   
   #about .div-img-bg .about-img img {
@@ -577,7 +578,7 @@ body {
     margin: 10px 0;
     position: relative;
     font-size: 13px;
-    color: #292929;
+    color: #6d6a69;
     letter-spacing: 0.1em;
     font-weight: 500;
     text-transform: uppercase;
@@ -592,7 +593,7 @@ body {
   
   .services-block i {
     font-size: 44px;
-    color: #283642;
+    color: #3d3d3d;
     line-height: 44px;
   }
   
@@ -652,7 +653,7 @@ body {
   }
   
   #portfolio .portfolio-item {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   
   #portfolio .portfolio-item .portfolio-info {
@@ -702,6 +703,10 @@ body {
     bottom: 20px;
   }
   
+  .img-fluid-main {
+    height: 348px;
+    width: 400px;
+  }
   /*--------------------------------------------------------------
   # Portfolio Details
   --------------------------------------------------------------*/
@@ -1103,6 +1108,10 @@ body {
       margin: 20px;
       display: inline-block;
     }
+    .img-fluid-main {
+      height: 282px;
+      width: 328px;
+    }
     /* journal */
     #journal .journal-block .journal-info {
       margin-bottom: 30px;
@@ -1172,6 +1181,10 @@ body {
       float: none;
       margin: 20px;
       display: inline-block;
+    }
+    .img-fluid-main {
+      height: 500px;
+      width: 520px;
     }
     /* journal */
     #journal .journal-block .journal-info {
