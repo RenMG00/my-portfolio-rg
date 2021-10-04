@@ -426,7 +426,7 @@ body {
   # Hero
   --------------------------------------------------------------*/
   #hero {
-    background: url("./assets/img/colorful.jpg") repeat scroll center center/cover;
+    background: url("./assets/img/fadedColor.jpg") repeat scroll center center/cover;
     height: 50vh;
     width: 100%;
   }
