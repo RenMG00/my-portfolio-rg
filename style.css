@@ -706,7 +706,7 @@ body {
   
   .img-fluid-main {
     height: 348px;
-    width: 400px;
+    width: 418px;
   }
   /*--------------------------------------------------------------
   # Portfolio Details
@@ -1111,7 +1111,7 @@ body {
     }
     .img-fluid-main {
       height: 282px;
-      width: 328px;
+      width: 336px;
     }
     /* journal */
     #journal .journal-block .journal-info {
@@ -1184,8 +1184,8 @@ body {
       display: inline-block;
     }
     .img-fluid-main {
-      height: 350px;
-      width: 460px;
+      height: 348px;
+      width: 516px;
     }
     /* journal */
     #journal .journal-block .journal-info {
